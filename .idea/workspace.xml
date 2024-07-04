@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c21fac7-fcc9-4c63-b329-20df751b36d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,26 +16,179 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Tools\apache-maven-3.9.8" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2iKmBJfO0d1sbeUgMi4vUYhUHba" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.AlertsTests.selectConfirmTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertsTests.sendMessageToAlertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertsTests.waitAlertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AutoCompleteTest.autoCompleteTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTests.doubleClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTests.rightClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/QA/Demoqa_POM/src/test/resourses/data.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DradAndDropTests.actionDragMeByTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.DradAndDropTests.actionDragMeTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.IframesTests.framesTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.IframesTests.switchToIframeByIDTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.IframesTests.switchToIframeByIndexTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.JavaScriptTest.JSExecuterTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LinksTests.checkAllLinksTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LinksTests.checkBrokenImages.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTests.loginPositiveTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MenuTest.selectSubMenuTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NestedIframesTests.handleNestedIframesTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RobotTests.performKeyEventsWithRobotTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RobotTests.performMouseEventTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchBookTest.searchBookTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectMenuTests.multiSelectTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectMenuTests.standartMultiSelectTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SliderTest.moveSliderTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StudentFormTest.createStudentAccountPositive.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBoxTests.keyBoardEventTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ToolTipsTest.toolTipsTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.com.demoqa.tests.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demoqa.pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTests.loginPositiveTest">
+    <configuration name="C:/QA/Demoqa_POM/src/test/resourses/data.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demoqa_POM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resourses/data.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTests.loginPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demoqa_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.tests.LoginTests" />
+      <option name="METHOD_NAME" value="loginPositiveTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentFormTest.createStudentAccountPositive" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demoqa_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.tests.forms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa.tests.forms" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.tests.forms.StudentFormTest" />
+      <option name="METHOD_NAME" value="createStudentAccountPositive" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextBoxTests.keyBoardEventTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demoqa_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.tests.elements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa.tests.elements" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.tests.elements.TextBoxTests" />
+      <option name="METHOD_NAME" value="keyBoardEventTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolTipsTest.toolTipsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Demoqa_POM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demoqa.tests.widgets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demoqa.tests.widgets" />
+      <option name="MAIN_CLASS_NAME" value="com.demoqa.tests.widgets.ToolTipsTest" />
+      <option name="METHOD_NAME" value="toolTipsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTests.loginPositiveTest" />
+        <item itemvalue="TestNG.TextBoxTests.keyBoardEventTest" />
+        <item itemvalue="TestNG.ToolTipsTest.toolTipsTest" />
+        <item itemvalue="TestNG.C:/QA/Demoqa_POM/src/test/resourses/data.xml" />
+        <item itemvalue="TestNG.StudentFormTest.createStudentAccountPositive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-semeru-11.0.22-e1d2075fd9a7-24488771" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

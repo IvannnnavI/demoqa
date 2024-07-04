@@ -1,0 +1,14 @@
+com\demoqa\pages\FormsPage.class
+com\demoqa\pages\AlertsFrameWindowsPage.class
+com\demoqa\pages\WidgetsPage.class
+com\demoqa\pages\BasePage.class
+com\demoqa\pages\ElementsPage.class
+com\demoqa\pages\SidePanel.class
+com\demoqa\config\ApplicationManager.class
+com\demoqa\pages\BookStorePage.class
+com\demoqa\pages\InterActionsPage.class
+com\demoqa\pages\ProfilePage.class
+com\demoqa\utils\MyListener.class
+com\demoqa\pages\HomePage.class
+com\demoqa\pages\LoginPage.class
+com\demoqa\utils\DataProviders.class
